@@ -1,0 +1,10 @@
+.bg-main-color {
+  background-color: #e9ecef;
+}
+
+.removeTextDecoration {
+  text-decoration: none;
+}
+.removeTextDecoration:hover {
+  text-decoration: underline;
+}
